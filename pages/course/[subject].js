@@ -4,7 +4,7 @@ import { useState } from "react";
 function subject() {
   return (
     <>
-      <div className="flex flex-row">
+      <div className="flex  flex-row">
         <div className="side_menu basis-1/4 bg-orange-500">
           <div className="list-items">
             <div className="unit">
@@ -27,6 +27,52 @@ function subject() {
                 </li>
                 <li className="lession">
                   <span>Lecture 01 : Introduction</span>
+                </li>
+              </ul>
+            </div>
+            <div className="unit">
+              <div className="unit-title">WEEK 2</div>
+              <ul className="list-none">
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+              </ul>
+            </div>
+            <div className="unit">
+              <div className="unit-title">WEEK 2</div>
+              <ul className="list-none">
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
+                </li>
+                <li className="lession">
+                  <span>Lecture 02 : Introduction</span>
                 </li>
               </ul>
             </div>
