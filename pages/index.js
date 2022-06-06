@@ -105,8 +105,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="text-center text-2xl font-bold">
-        <h1>Course</h1>
+      <div class="text-5xl font-extrabold item-center text-center">
+        <span class="bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
+          Course
+        </span>
       </div>
 
       <section className="text-gray-600 body-font">
