@@ -32,7 +32,7 @@ Course Page:
 Topics:
 ![](https://raw.githubusercontent.com/rrajak7499/Screenshots/main/gate-cse/4.png)
 
-### Features
+## Features
 
 - You can easly acess courses which is requried for the GATE preparation.
 - You can modify make easly colned.
