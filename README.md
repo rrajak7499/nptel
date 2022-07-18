@@ -18,6 +18,27 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+##Screen Shots
+Index Page:
+
+![](https://raw.githubusercontent.com/rrajak7499/Screenshots/main/gate-cse/1.png)
+
+Home Page:
+![](https://raw.githubusercontent.com/rrajak7499/Screenshots/main/gate-cse/2.png)
+
+Course Page:
+![](https://raw.githubusercontent.com/rrajak7499/Screenshots/main/gate-cse/3.png)
+
+Topics:
+![](https://raw.githubusercontent.com/rrajak7499/Screenshots/main/gate-cse/4.png)
+
+### Features
+
+- You can easly acess courses which is requried for the GATE preparation.
+- You can modify make easly colned.
+- You can access course in single click without ristriction.
+- There is no adds in this course page.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
